@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = ".mixin.out/class/net/irisshaders/iris/gui/screen/ShaderPackScreen.class"
-hash = "b457e5c9e4abfe071a2b81b2178fad8a95c88d5c77fc72ba0c43ebf6d09f24f7"
+hash = "60b1fd6b11265255cd8bb5bc5c4ffd58b8cbf547c9499f872801aeaa04e9a90d"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/client/particle/ParticleEngine.class"
-hash = "90d24e3a55830fa74958fdf3e31f4dd0c0c6fb613e092311cebf8d3d1a5bd0f4"
+hash = "435184c1763bdaf5ca6d1effc17f73e923766318026f4a5f438596f36405fde1"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/client/particle/SingleQuadParticle.class"
-hash = "0d916ce590e0f242f5f1414600a8a902c2c3093d1576ca97fd9b41fe05477189"
+hash = "4cf084f4338efe786109ba4753fbb2e9b6308c2dfe68f0288c0b4bc18e522af6"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/client/renderer/LevelRenderer.class"
-hash = "b9ce8e22eec64d6734a9105e0414adf1af24b049aef3fe0318669a008506ce05"
+hash = "e6b11a057161bd52a4cb51c6d150a1fe7eefd1e2a90743391cddc7979cf1d831"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/client/renderer/entity/PaintingRenderer.class"
-hash = "bb002ffd754e31cc46741b1e05a38c5707eabbd6c032859b122d1eb3a31514d4"
+hash = "cb4aef6954cae7f5c6094d207b9eec345ce96a1a3f4f2d6ad9b7cadd1b8b346a"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/world/effect/MobEffect.class"
-hash = "ff5da2bcf123eb2ecd3fad8a6a15b3c18406c508a134aed7dd7d0627e567ebc5"
+hash = "9607cb6ffe79e6823c014db6584fc1b0e965d86a82f9c16a56fb7b0e3be2b340"
 
 [[files]]
 file = ".qmenu_opened.marker"
@@ -390,7 +390,7 @@ hash = "bb8bd4dcc29ff5fca5ac1cf7878972bcdf6ddac709b8041e4f6a8087e1f8de56"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e0afdb61634ef214ae93d608e6da5564765a74af095e210fc60602bfcbbf54d3"
+hash = "e8201b69e886344ebe8ddb9da4724cde57ddf1ba6daabf4bd5901d1028e4ba2c"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -770,7 +770,7 @@ hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "96f0ba4de9679f4a3f5ea0eb8c79a0bc0ffb2e043b214fb61224dd133e7562cc"
+hash = "db0f77b4bab45c4bc3176b19a79042c4f502e0d82bce9248a68ee3aa9a1f0a28"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -778,7 +778,7 @@ hash = "1cb5807421d57c43c64c74b18bc22a30452f4e84b59020ed39742c0b957ea57b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "6fcd77a21822f8ef9814f616d7c9abef68f0cb1f0add8a07a4f60321b3592926"
+hash = "b61cb3a98b8213d4913c75f0b12101a8ff378e95c9e14357a57cd2aa9a219db9"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -1282,7 +1282,7 @@ hash = "37e51d03fae3b9671c481361217f0d5ea95e5646c4bfbee7c468a54cb2d2f22a"
 
 [[files]]
 file = "instance.json"
-hash = "defbcb205cd5e0450443ca66368ac473b470a634e7a5c4c9fde6d53c14e517f0"
+hash = "7ff0a5a2ce11c1eb076c1aa4e58de9d8a9994327310ab0b28338e487666c06a0"
 
 [[files]]
 file = "instance.png"
@@ -1294,35 +1294,35 @@ hash = "f06f7488b7856826d9e67883934c0076563dd31bb2ee134b880bf2f8dca8597d"
 
 [[files]]
 file = "logs/2026-10-15-1.log.gz"
-hash = "1ea2f17210874e73012f863f30d7c7feccf59b974c4386da8ae9e234000bee97"
-
-[[files]]
-file = "logs/2026-10-15-2.log.gz"
-hash = "85315103e44b5d3fc934605ba87829a323ea370abcfb3640c1b2a5e713610e4c"
-
-[[files]]
-file = "logs/2026-10-15-3.log.gz"
 hash = "c9c91f6991d21dbc4b0831575e77faf8c8a64729f26137fc7b748801be234a17"
 
 [[files]]
-file = "logs/2026-10-15-4.log.gz"
+file = "logs/2026-10-15-2.log.gz"
 hash = "d8255b6a0561ebd0d4f2eb106b8dcbf5ad79c2122bb787536042acafc201eac4"
 
 [[files]]
-file = "logs/2026-10-15-5.log.gz"
+file = "logs/2026-10-15-3.log.gz"
 hash = "6a5a30e6b6aa4dd99f2d5e967037e3adac93dbc57122e896acace20d798e2abe"
 
 [[files]]
-file = "logs/2026-10-15-6.log.gz"
+file = "logs/2026-10-15-4.log.gz"
 hash = "cfd44564d6ca6d4247e6fd06c6cfa1191dc3002dbcd01c98036dd3006e95b896"
 
 [[files]]
-file = "logs/2026-10-15-7.log.gz"
+file = "logs/2026-10-15-5.log.gz"
 hash = "1347579dadf7f9b440f8be43bfe4da8df0d226ce3f628f09c0656460966b2300"
 
 [[files]]
+file = "logs/2026-10-15-6.log.gz"
+hash = "7814822663012321b1b89ad299befd226aa61bb58f480802c2c38d5d015a4861"
+
+[[files]]
+file = "logs/2026-10-16-1.log.gz"
+hash = "9f6a3dfdaf9cfe0e8e7d111d62ad6b19a8f8f0e7a13558005e6ceee3433284c0"
+
+[[files]]
 file = "logs/latest.log"
-hash = "65fa931be81977fce1b4082ab0852d50e3a53cbfcd437150c0005197a1352e83"
+hash = "6a23a5c5ef24eed180d5b53e31ebabd18fb9875754a9508baddd70465e410c1f"
 
 [[files]]
 file = "logs/telemetry/20261015-1.json.gz"
@@ -3627,18 +3627,6 @@ hash = "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
 [[files]]
 file = "mods/friendsandfoes-forge-mc1.20.1-3.0.9.jar"
 hash = "2f7d8dae6bde58bd04a6dd65b9d08f8b8d3576488eadcd908d197cb219504eff"
-
-[[files]]
-file = "mods/ftb-filter-system-forge-20.0.1.jar"
-hash = "fcb7b312a010986a868a6645e4e395b2635383a2387297c7c134aa4250959e24"
-
-[[files]]
-file = "mods/ftb-library-forge-2001.2.13.jar"
-hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
-
-[[files]]
-file = "mods/ftb-xmod-compat-forge-2.1.3.jar"
-hash = "16a8eb9de88d5c33d29cb076cc39dfb337b2c54348e1ef1efe9dd60cf85e5f72"
 
 [[files]]
 file = "mods/fzzy_config-0.7.7+1.20.1+forge.jar"
