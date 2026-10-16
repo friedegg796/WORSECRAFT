@@ -1,0 +1,13 @@
+name = "Worsecraft"
+author = "AwanderingMuslim"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ab32b6866d2401d3f7bd7a8a2a0c1d4e7fc36c6bf076824fb6d4f6fda694bc5"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"

@@ -72,16 +72,3 @@ It also includes an `nix flake` for you fellow nix enjoyers! The actions also us
 
 If you encounter any issues or need assistance, consult the [Issues](https://github.com/jh-devv/mc-modpack-kit/issues) page or reach out via my GitHub profile.
 
-### License
-
-This project is licensed under the [CC0 1.0 Universal License](LICENSE).
-
-### Acknowledgments
-
-- This project makes effective use of GitHub Actions and various tools to automate the modpack release process.
-- A heartfelt ❤️ thank you to [Rafii](https://github.com/Rafii2198) for helping with this!
-- Special thanks to the GitHub community for their contributions and support.
-
----
-
-Contributions, feedback, and improvements are warmly welcomed! Let's propel this project forward together! 🚀
